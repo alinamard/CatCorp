@@ -9,6 +9,7 @@ public class BamkAccount {
         System.out.println(MyAccount.id);
         System.out.println("Получилось");
         System.out.println("Получилось 2 попытка");
+        System.out.println("Получилось 2 попытка");
 
 
 
